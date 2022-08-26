@@ -1,4 +1,37 @@
 .service-heading{
     margin-top: 20px;
-    padding-left: 20px;
+    padding-left: 20px;  
+}
+/* Overview section */
+#overview-dropdown{
+    display: flex;
+    margin-top: 20px;
+    padding-left: 20px;  
+}
+.overview-border{
+ width: 100%;
+}
+#btn-middle-aling{
+    text-align: center;
+    margin-top: 10px;
+}
+.border-dropdown-section{
+    border-style: inset;
+}
+.border-information-section{
+    border-style: outset; 
+}
+.border-information-section h3{
+    text-align: center;
+    margin-top: 10px;
+}
+/* pagination section */
+.pagination-part{
+    margin-top: 15px;
+}
+.footer-part{
+    background-color: gray;
+    height: 30px;
+    text-align: center;
+    color: white;
 }
